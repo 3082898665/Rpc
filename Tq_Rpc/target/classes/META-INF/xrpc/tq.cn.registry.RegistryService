@@ -1,0 +1,2 @@
+redis=tq.cn.registry.RedisRegistry
+zookeeper=tq.cn.registry.ZookeeperRegistry

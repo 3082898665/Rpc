@@ -1,0 +1,12 @@
+server:
+  port: 9091
+spring:
+  application:
+    name: MyRpc_Provider2
+  cloud:
+    zookeeper:
+      connect-string: 192.168.211.136:2181
+      discovery:
+        register: true
+        enabled: true
+        root: /rpc

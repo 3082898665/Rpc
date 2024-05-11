@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MyRpc_Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyRpc_Provider1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyRpc_Provider2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tq_Rpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../practice_demo/rpc-demo-2/rpc-client-nio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../practice_demo/rpc-demo-2/rpc-common-nio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../practice_demo/rpc-demo-2/rpc-server-nio/rpc-server-nio-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../practice_demo/rpc-demo-2/rpc-server-nio/rpc-server-nio-provider/src/main/java" charset="UTF-8" />
+  </component>
+</project>

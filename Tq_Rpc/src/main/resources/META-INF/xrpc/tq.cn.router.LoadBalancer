@@ -1,0 +1,2 @@
+consistentHash=tq.cn.router.ConsistentHashLoadBalancer
+roundRobin=tq.cn.router.RoundRobinLoadBalancer

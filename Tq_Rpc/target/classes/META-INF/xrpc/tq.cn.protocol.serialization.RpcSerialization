@@ -1,0 +1,2 @@
+json=tq.cn.protocol.serialization.JsonSerialization
+hessian=tq.cn.protocol.serialization.HessianSerialization
